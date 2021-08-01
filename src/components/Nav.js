@@ -16,7 +16,19 @@ function Nav() {
           <Link to="/Home">Home</Link>
         </div>
         <div className="navbar-item">
+          <Link to="/About">About</Link>
+        </div>
+        <div className="navbar-item">
+          <Link to="/Classes">Classes</Link>
+        </div>
+        <div className="navbar-item">
+          <Link to="/Gallery">Gallery</Link>
+        </div>
+        <div className="navbar-item">
           <Link to="/Quote">Quote</Link>
+        </div>
+        <div className="navbar-item">
+          <Link to="/Contact">Contact us</Link>
         </div>
       </div>
     </nav>
